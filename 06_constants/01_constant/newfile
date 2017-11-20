@@ -1,0 +1,14 @@
+package newfile
+
+import "fmt"
+
+const p string = "my ballas"
+
+func newfile() {
+const y = 50
+
+fmt.Println("p -", p)
+fmt.Println("y -", y)
+}
+
+// this is just a copy of something else
